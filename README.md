@@ -1,4 +1,4 @@
-# basamakSay-
+# basamakSayı
 import java.util.Scanner;
 
 public class BasamakSayiToplami {
