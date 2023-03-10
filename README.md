@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class BasamakSayiToplami {
 
 	public static void main(String[] args) {
-		int sayi,kalan=0,result=0;;
+		int sayi, kalan=0, result=0;;
 
 		Scanner scan = new Scanner(System.in);
         System.out.print("Sayıyı Giriniz : ");
